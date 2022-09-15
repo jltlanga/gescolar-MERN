@@ -28,7 +28,6 @@ const Navbar = () => {
     setSearch("")
   })
 
-
   return (
     <div className='header'>
       <Link to='/'>
